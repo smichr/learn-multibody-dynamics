@@ -150,7 +150,7 @@ the text, in approximate order of first contribution:
 This is of course built on top of SymPy, whose `1000+ contributors`_ have also
 greatly helped SymPy Mechanics be what it is. Furthermore, the software lies on
 the top of a large ecosystem of open source software written by thousands and
-thousands of contributors who we owe so much to.
+thousands of contributors to whom we owe so much.
 
 .. _1000+ contributors: https://github.com/sympy/sympy/blob/master/AUTHORS
 
